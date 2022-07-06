@@ -9,9 +9,8 @@
 <a href="https://www.javascript.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=40px height=40px alt="Javascipt"></a>
 <a href="https://jquery.com"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" width=40px height=40px alt="Jquery">
 </a>
-
 <a href="https://es.reactjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" width=40px height=40px alt="React">
-
+</a>
 <br/>
 
 <a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=40px height=40px alt="Python">
