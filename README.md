@@ -9,7 +9,7 @@
 <a href="https://www.javascript.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=40px height=40px alt="Javascipt"></a>
 <a href="https://jquery.com"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" width=40px height=40px alt="Jquery">
 </a>
-<a href="https://es.reactjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" width=40px height=40px alt="React">
+<a href="https://es.reactjs.org"><img src="https://norbertoledo.es/feed/img/news/react-logo.png" width=40px height=40px alt="React">
 </a>
 <a href="https://v5.reactrouter.com/web/guides/quick-start"><img src="https://reacttraining.com/images/logo-icon-512.png" width=40px height=40px alt="React router">
 </a>
