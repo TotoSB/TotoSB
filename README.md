@@ -7,6 +7,7 @@
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width=40px height=40px alt="CSS"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" width=40px height=40px alt="HTML"></a>
 <a href="https://www.javascript.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=40px height=40px alt="Javascipt"></a>
+<a href="https://www.typescript.com"><img src="https://img.icons8.com/color/480/typescript.png" width=40px height=40px alt="Typescript"></a>
 <a href="https://jquery.com"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/02/jQuery-logo.png" width=40px height=40px alt="Jquery">
 </a>
 <a href="https://es.reactjs.org"><img src="https://norbertoledo.es/feed/img/news/react-logo.png" width=40px height=40px alt="React">
