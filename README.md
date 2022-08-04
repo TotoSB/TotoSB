@@ -1,7 +1,7 @@
 <h1>Hola soy Tomás y este es mi Github 😁</h1>
 
 
-<h3>🇦🇷 15y/o Front-End 🇦🇷</h3>
+<h3>15y/o Front-End</h3>
 
 
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width=40px height=40px alt="CSS"></a>
