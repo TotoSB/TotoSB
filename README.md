@@ -1,4 +1,4 @@
-<h1>Hola soy Tomás y este es mi Github 😁</h1>
+<h1>Hola soy Tomás y este es mi Github</h1>
 
 
 <h3>15y/o Front-End</h3>
