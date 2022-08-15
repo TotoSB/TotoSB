@@ -14,6 +14,8 @@
 </a>
 <a href="https://v5.reactrouter.com/web/guides/quick-start"><img src="https://reacttraining.com/images/logo-icon-512.png" width=40px height=40px alt="React router">
 </a>
+<a href="https://git-scm.com"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" width=40px height=40px alt="GIT">
+</a>
 
 <br/>
 
