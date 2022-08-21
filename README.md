@@ -16,6 +16,10 @@
 </a>
 <a href="https://git-scm.com"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" width=40px height=40px alt="GIT">
 </a>
+<a href="https://nodejs.org/es/"><img src="https://midu.dev/images/tags/node.png" width=40px height=40px alt="Node JS">
+</a>
+<a href="http://expressjs.com/es/"><img src="https://creativecode.com.br/wp-content/themes/creativecode/images/expressJs.png" width=40px height=40px alt="Express JS">
+</a>
 
 <br/>
 
