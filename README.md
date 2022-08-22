@@ -20,6 +20,9 @@
 </a>
 <a href="http://expressjs.com/es/"><img src="https://creativecode.com.br/wp-content/themes/creativecode/images/expressJs.png" width=40px height=40px alt="Express JS">
 </a>
+<a href="https://ejs.co"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width=40px height=40px alt="EJS">
+</a>
+
 
 <br/>
 
