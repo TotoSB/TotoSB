@@ -20,12 +20,7 @@
 </a>
 <a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=40px height=40px alt="Github">
 </a>
-<a href="https://nodejs.org/es/"><img src="https://midu.dev/images/tags/node.png" width=40px height=40px alt="Node JS">
-</a>
-<a href="http://expressjs.com/es/"><img src="https://creativecode.com.br/wp-content/themes/creativecode/images/expressJs.png" width=40px height=40px alt="Express JS">
-</a>
-<a href="https://ejs.co"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width=40px height=40px alt="EJS">
-</a>
+
 
 
 <br/>
