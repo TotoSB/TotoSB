@@ -20,7 +20,7 @@
 </a>
 <a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=40px height=40px alt="Github">
 </a>
-<a href="https://www.djangoproject.com"><img src="https://www.aprenderpython.net/wp-content/uploads/2017/08/django.png" width=40px height=40px alt="Django">
+<a href="https://www.djangoproject.com"><img src="https://blog.qilinlab.com/content/images/2020/12/kisspng-django-web-development-web-framework-python-softwa-django-5b45d914274e46.055745571531304212161.png" width=40px height=40px alt="Django">
 </a>
 
 
