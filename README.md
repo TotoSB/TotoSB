@@ -22,7 +22,7 @@
 </a>
 <a href="https://www.djangoproject.com"><img src="https://blog.qilinlab.com/content/images/2020/12/kisspng-django-web-development-web-framework-python-softwa-django-5b45d914274e46.055745571531304212161.png" width=40px height=40px alt="Django">
 </a>
-<a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width=40px height=40px alt="Bootstrap">
+<a href="https://getbootstrap.com"><img src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" width=40px height=40px alt="Bootstrap">
 </a>
 
 
