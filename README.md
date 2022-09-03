@@ -24,6 +24,10 @@
 </a>
 <a href="https://getbootstrap.com"><img src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" width=40px height=40px alt="Bootstrap">
 </a>
+<a href="https://www.sqlite.org/index.html"><img src="https://www.aprendexojo.com/wp-content/uploads/2018/03/Sqlite.png" width=40px height=40px alt="Sqlite">
+</a>
+<a href="https://www.sqlite.org/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width=40px height=40px alt="PostgreSQL">
+</a>
 
 
 
