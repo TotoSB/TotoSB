@@ -28,6 +28,7 @@
 </a>
 <a href="https://www.sqlite.org/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width=40px height=40px alt="PostgreSQL">
 </a>
+<a href="https://tailwindcss.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width=40px height=40px alt="Tailwind CSS"></a>
 
 
 
