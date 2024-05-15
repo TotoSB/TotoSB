@@ -1,9 +1,13 @@
-<h1>Hola soy Tomás y este es mi Github</h1>
-
-
-<h3>17y/o Full-Stack Web Developer</h3>
-
+<h1>My name is Tomas, but you can call me "Toto" 😉</h1>
 <br/>
 
-<a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=40px height=40px alt="Python"><b>Expert</b>
-</a>
+<ul>
+  <li>🐍 Fullstack <b>Django</b> developer</li>
+  <li>🌱 Growing</li>
+
+<br>
+  <li>📷 Instagram: <a href="https://www.instagram.com/devtotosb/">https://www.instagram.com/devtotosb/</a></li>
+  <li>💼 Linkedin: <a href="https://www.linkedin.com/in/tomas-bianchi/">https://www.linkedin.com/in/tomas-bianchi/</a></li>
+  <li>📧 Contact: <a href="mailto:tomaserafinbianchi@gmail.com">tomaserafinbianchi@gmail.com</a></li>
+  
+</ul>
