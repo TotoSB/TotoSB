@@ -4,7 +4,8 @@
 <ul>
   <li>🐍 Fullstack <b>Django</b> developer</li>
   <li>⚛️ Reactive web-apps</li>
-  <li>🌱 Growing</li>
+  <li>🎨UX & UI Design </li>
+  <li>🌱 Growing projects</li>
   <li>🧉 Argentinian developer</li>
 
 <br>
