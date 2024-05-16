@@ -4,6 +4,7 @@
 <ul>
   <li>🐍 Fullstack <b>Django</b> developer</li>
   <li>🌱 Growing</li>
+  <li>🧉 Argentinian developer</li>
 
 <br>
   <li>📷 Instagram: <a href="https://www.instagram.com/devtotosb/">https://www.instagram.com/devtotosb/</a></li>
