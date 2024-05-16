@@ -3,6 +3,7 @@
 
 <ul>
   <li>🐍 Fullstack <b>Django</b> developer</li>
+  <li>⚛️ Reactive web-apps</li>
   <li>🌱 Growing</li>
   <li>🧉 Argentinian developer</li>
 
